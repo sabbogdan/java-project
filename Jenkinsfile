@@ -13,4 +13,5 @@ pipeline {
         archive '$dist/*.jar'
       }
     }
+
 }
